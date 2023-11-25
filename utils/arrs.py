@@ -42,7 +42,3 @@ def my_slice(coll, start=None, end=None):
 
     return coll[normalized_start:normalized_end]
 
-
-# my_list = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
-# print(my_slice(my_list, None, -7))
-
